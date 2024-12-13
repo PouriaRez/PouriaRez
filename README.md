@@ -26,6 +26,6 @@ I’m always open to learning from others and collaborating on exciting projects
 
 - 📫 Email: porezaei@ucsc.edu
 - 💬 LinkedIn: https://www.linkedin.com/in/pouriarez/
-- 🌐 Portfolio: [[Your Portfolio Here](https://pouriarez.github.io/PersonalPortfolio/)]
+- 🌐 Portfolio: https://pouriarez.github.io/PersonalPortfolio/
 
 Let's build something amazing together! ✨
