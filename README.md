@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub!
 
-Hey there! 👋 I'm Pouria, a passionate **Full-Stack Developer** and a **CS Major at UCSC** with a lifelong love for coding and technology. I specialize in building dynamic, user-friendly applications with cutting-edge frameworks and tools.
+Hey there! 👋 I'm Pouria, a passionate **Software Developer** and a **CS Major at UCSC** with a lifelong love for coding and technology. I specialize in building dynamic, user-friendly applications with cutting-edge frameworks and tools.
 
 ## 💻 My Tech Stack
 - **Front-End**: React, React Native, Angular, TypeScript
