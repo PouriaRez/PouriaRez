@@ -24,8 +24,8 @@ I’m driven by the challenge of creating intuitive, high-performance applicatio
 ## 🚀 Let's Connect!
 I’m always open to learning from others and collaborating on exciting projects. Feel free to check out my repositories, star your favorites, and get in touch!
 
-- 📫 Email: [Your Email Here]
-- 💬 LinkedIn: [Your LinkedIn Here]
-- 🌐 Portfolio: [Your Portfolio Here]
+- 📫 Email: porezaei@ucsc.edu
+- 💬 LinkedIn: https://www.linkedin.com/in/pouriarez/
+- 🌐 Portfolio: [[Your Portfolio Here](https://pouriarez.github.io/PersonalPortfolio/)]
 
 Let's build something amazing together! ✨
