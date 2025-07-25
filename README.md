@@ -3,11 +3,10 @@
 Hey there! 👋 I'm Pouria, a passionate **Software Developer** and a **CS Major at UCSC** with a lifelong love for coding and technology. I specialize in building dynamic, user-friendly applications with cutting-edge frameworks and tools.
 
 ## 💻 My Tech Stack
-- **Front-End**: React, React Native, Angular, TypeScript
-- **Back-End**: Python, Node.js
-- **Languages**: C++, Python, JavaScript, HTML, CSS
-- **Cloud & Databases**: Firebase, Google Cloud
-- **Tools & Other**: Git, GitHub, Tailwind CSS, Bootstrap
+- **Languages**: JavaScript, C++, C, Python, TypeScript, HTML, CSS/SCSS
+- **Frameworks & Libraries**: React, React Native, Angular, MUI
+- **Developer Tools & Testing**: Git, GitHub, Docker, Vitest, React Testing Library, MSW
+- **Backend & APIs**: Node.js, Express, PostgreSQL, Firebase, OpenAPI
 
 ## 🔥 My Passion
 I’m driven by the challenge of creating intuitive, high-performance applications that make a difference. Whether it's through **full-stack development** or building **mobile apps**, I thrive on pushing my skills to new heights and staying up-to-date with the latest tech trends.
